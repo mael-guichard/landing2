@@ -1,0 +1,38 @@
+.banner {
+    background-image: url(../../images/background.png);
+	color: white;
+	background-position: center;
+	background-size: cover;
+	padding: 200px 0px;
+}
+
+.banner h1 {
+	font-size: 35px;
+	color: white;
+	background-image: url(../../images/background2.png);
+	margin-bottom: 0px;
+}
+
+.banner h2 {
+	font-size: 22px;
+	color: white;
+	font-weight: lighter;
+	margin-bottom: 70px;
+	background-image: url(../../images/background2.png);
+	margin-top: 0px;
+}
+
+.banner2 {
+	background-image: url(../../images/background2.png);
+	color: white;
+	background-position: center;
+	background-size: cover;
+	padding: 200px 0px;
+}
+
+.banner2 h2 {
+	font-size: 32px;
+	color: white;
+	text-align: center;
+	background-image: url(../../images/background2.png);
+}

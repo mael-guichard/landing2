@@ -1,0 +1,26 @@
+.card-little {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.card-little img {
+    border: solid 1px;
+    border-color: white;
+    width: 320px;
+    box-shadow: 0px 1px 20px rgba(0,0,0,.2);
+    margin-top: 50px;
+}
+
+.card-big {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.card-big img {
+    width: 50%;
+}
+
